@@ -34,6 +34,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 1 - Introduction to Time Series in Finance
 
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%201_%20Introduction%20to%20Time%20Series%20in%20Finance.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: Time series analysis is the cornerstone of understanding financial market dynamics. A time series is essentially a sequence of data points plotted over regular intervals of time, like stock prices recorded daily. Within the realm of finance, it's immensely valuable because it lets us decipher patterns, predict future trends, and make informed decisions. In this lesson, we'll also get hands-on, visualizing a hypothetical stock price's journey throughout a year using Python. By the end, you'll appreciate why time series is indispensable in finance and even get a flavor of how it's visualized using Python.
 
 **Key Takeaways**:
@@ -48,6 +52,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 2 - Importing and Cleaning Financial Data
 
+**Notebook**:<a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%202_%20Importing%20and%20Cleaning%20Financial%20Data.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: Before we delve deep into time series analysis, it's imperative to ensure our financial data is clean and trustworthy. Just like constructing a building, the foundation – in our case, the data – needs to be robust. In this lesson, we'll guide you through the essential steps of importing and cleaning financial data using Python.
 
 **Key Takeaways**:
@@ -61,6 +69,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 ---
 
 ### Lesson 3 - Basic Time Series Patterns in Finance
+
+**Notebook**:<a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%203_%20Basic%20Time%20Series%20Patterns%20in%20Finance.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Overview**: The intricate dance of financial data reveals various patterns. Recognizing these patterns is akin to understanding a language. In this lesson, we'll introduce you to three main patterns frequently seen in time series financial data and how to visualize them using Python.
 
@@ -78,6 +90,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 4 - Time Series Decomposition
 
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%204_%20Time%20Series%20Decomposition.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: Navigating the intricate layers of financial data, this lesson's focus lies in time series decomposition. Just as we might dissect a clock to understand its mechanics, we split a time series into its primary elements, allowing us to decipher each component's role and influence.
 
 **Key Takeaways**:
@@ -94,6 +110,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 5 - Moving Averages and Smoothing
 
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%205_%20Moving%20Averages%20and%20Smoothing.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: As we progress through our financial journey, this lesson uncovers the art of moving averages. An essential technique, moving averages act as a sieve, filtering out short-term noise and revealing the genuine trend of our data.
 
 **Key Takeaways**:
@@ -107,6 +127,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 ---
 
 ### Lesson 6 - Autocorrelation and Its Significance
+
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%206_%20Autocorrelation%20and%20Its%20Significance.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Overview**: This lesson unravels the intricacies of autocorrelation, a powerful diagnostic tool for analyzing time series data. A measure of internal correlation, autocorrelation brings out hidden relationships within sequential data, allowing us to better understand and predict its behavior.
 
@@ -125,6 +149,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 7 - Stationarity in Time Series
 
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%207_%20Stationarity%20in%20Time%20Series.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: Stationarity is to time series what stability is to a ship. Just as a stable ship ensures a smooth sail, a stationary time series ensures robust forecasting. In this lesson, we embark on understanding why stationarity is the linchpin of effective time series analysis.
 
 **Key Takeaways**:
@@ -141,6 +169,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 ---
 
 ### Lesson 8 - Forecasting with ARIMA Models
+
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%208_%20Forecasting%20with%20ARIMA%20Models.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Overview**: ARIMA, the Swiss army knife of time series forecasting! As we venture further into forecasting's fascinating realm, ARIMA stands as a testament to the synthesis of three powerful components, offering us a robust model to predict future trends.
 
@@ -164,6 +196,10 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 
 ### Lesson 9 - Advanced Forecasting: Exploring Prophet
 
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/time_series_for_finance/blob/main/finance_timeseries_analysis/Lesson%209_%20Advanced%20Forecasting_%20Exploring%20Prophet.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Overview**: We're on the final stretch! In this lesson, we venture into the territory of modern forecasting with Prophet—a tool that's proven its worth in capturing the nuances of financial time series data, especially when seasonal fluctuations are at play.
 
 **Key Takeaways**:
@@ -186,6 +222,8 @@ In **"Time Series Analysis for Finance in Python"**, we navigate the complex rhy
 ---
 
 ### Lesson 10 - Creating your own Time Series Forecast (coming soon!)
+
+**Notebook**: In development
 
 [Back to top](#course-outline)
 
